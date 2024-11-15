@@ -1,4 +1,3 @@
 // constants.js
-const DB_NAME = "videotube";
+export const DB_NAME = "MyMusic";
 
-module.exports = DB_NAME;
